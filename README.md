@@ -8,28 +8,28 @@ This TouchDesigner-based tool was developed for **Urbanscreen** to support the i
 
 The tool is divided into several modular pages, each addressing a key stage of the projection setup:
 
-1. **Playback & Output** (`screenshots/page1.png`):
+1. **Playback & Output** ![page1](`screenshots/page1.png`):
    - File selection, playback, and timeline control.
    - Cue-based segment selection for precise playback.
    - Volume control, sound card selection, and autosave functionality.
    - Window opening for external displays.
 
-2. **Resolution & Fit** (`screenshots/page2.png`):
+2. **Resolution & Fit** ![page2](`screenshots/page2.png`):
    - Individual resolution adjustment for each projector.
    - Downscaling for soft-edge blending.
 
-3. **Set Grid** (`screenshots/page3.png`):
+3. **Set Grid** ![page3](`screenshots/page3.png`):
    - Customizable test grid with adjustable rows, columns, and line thickness.
    - Used to align projection points for subsequent warping and blending.
 
-4. **Set Overlap** (`screenshots/page4.png`):
+4. **Set Overlap** ![page4](`screenshots/page4.png`):
    - Precise overlap adjustment for projector edges.
    - Preview functionality to confirm alignment.
 
-5. **Align & Warp** (`screenshots/page5.png`):
+5. **Align & Warp** ![page5](`screenshots/page5.png`):
    - External integration with **TD Multimapping Tool** for detailed warping and alignment.
 
-6. **Blends** (`screenshots/page6.png`):
+6. **Blends** ![page6](`screenshots/page6.png`):
    - Fine-tuning of blend areas, luminance, and gamma for individual projectors.
 
 ## Additional Features
